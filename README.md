@@ -33,7 +33,7 @@ Mon parcours m'a permis d'explorer aussi bien le **Front-end** que le **Back-end
 ## 📫 **Me contacter**  
 
 📧 **Email** : sami.gilliand@heig-vd.ch
-🔗 **Portfolio** : [monportfolio.com](https://bento.me/sami-gilliand)
+🔗 **Portfolio** : [bento.me](https://bento.me/sami-gilliand)
 💼 **LinkedIn** : [linkedin.com/in/sami-gilliand](https://www.linkedin.com/in/sami-gilliand/)  
 
 ---
